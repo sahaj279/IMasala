@@ -1,2 +1,2 @@
-# Instagram_clone
+# IMasala- India's Social Media App
  
